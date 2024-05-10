@@ -50,7 +50,8 @@ Plots the expected position of the particle over time. If `ret=True`, returns th
 
 Plots the time evolution of the wave function as a color map, showing its magnitude at each position and time.
 
-### `plotSome(schrodinger)`
+#### `plotSome(schrodinger)`
 
 Plots real and imaginary parts of the wave function at various time steps.
+
 
