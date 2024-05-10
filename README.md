@@ -55,8 +55,23 @@ Plots the time evolution of the wave function as a color map, showing its magnit
 ## Other
 
 Three example scripts are provided to demonstrate the usage of the `Schrodinger` class with different potential types:
-- `ISW_example.py`: Example script for simulating a particle trapped in an Infinite Square Well potential.
-- `tunneling_example.py`: Example script for simulating a particle with tunneling effect.
-- `double_pot_example.py`: Example script for simulating a particle in a double potential well scenario.
+- `infinite_square_well.py`: Example script for simulating a particle trapped in an Infinite Square Well potential.
+
+  
+- `harmonic.py`: Example script for simulating a particle trapped in a Harmonic Potential.
+
+https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/ee6ccbfa-0902-44ff-b923-06b1ac5f5aba
+
+- `tunneling.py`: Example script for simulating a particle with tunneling effect.
+  
+
+https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/b81eae2a-b1bc-4086-8e9a-1d12de723b31
+
+
+- `double_part.py`: Example script for simulating a two particles system.
+
+
+https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/6a2f75f6-dedc-47df-b8ad-fb9a1e815cce
+
 
 
