@@ -30,23 +30,23 @@ This file contains functions used to visualize various aspects of the simulation
 
 Generates an animated plot showing the real and imaginary parts of the wave function as it evolves over time.
 
-#### Function: `animModulus(schrodinger)`
+#### `animModulus(schrodinger)`
 
 Generates an animated plot showing the modulus squared of the wave function as it evolves over time.
 
-#### Function: `plotUncertainty(schrodinger)`
+####  `plotUncertainty(schrodinger)`
 
 Plots the uncertainty (variance) of the wave function's position over time.
 
-### Function: `plotNormalization(schrodinger)`
+#### `plotNormalization(schrodinger)`
 
 Plots the normalization of the wave function over time.
 
-### Function: `plotExpectedPosition(schrodinger, ret=False)`
+#### `plotExpectedPosition(schrodinger, ret=False)`
 
 Plots the expected position of the particle over time. If `ret=True`, returns the expected position array instead of plotting it.
 
-### Function: `plotTimeEvolution(schrodinger)`
+#### `plotTimeEvolution(schrodinger)`
 
 Plots the time evolution of the wave function as a color map, showing its magnitude at each position and time.
 
