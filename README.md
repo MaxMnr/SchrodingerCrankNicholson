@@ -1,6 +1,6 @@
 # SchrodingerCrankNicholson
 
-## 'solver.py'
+## `solver.py`
 This project contains the implementation of the `Schrodinger` class, which serves as a solver for the Time-Dependent Schrödinger's Equation (TDSE) using the Crank-Nicholson method. The class provides a flexible framework to simulate the behavior of a 1D-particle trapped in a box under various potential conditions.
 
 ### Class: `Schrodinger`
