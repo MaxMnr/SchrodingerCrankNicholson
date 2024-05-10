@@ -70,13 +70,13 @@ https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/ee6ccbfa-090
   
 
 https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/b81eae2a-b1bc-4086-8e9a-1d12de723b31
+![expect_plot_tunneling](https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/f790a43a-d72d-4968-a88f-f0e77ff6acb3)
 
 
 - `double_part.py`: Example script for simulating a two particles system.
 
-
-
 https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/77517442-d06b-474e-ac33-5c5bfb4f9439
+![expected_plot_double_hr](https://github.com/MaxMnr/SchrodingerCrankNicholson/assets/88986446/fcb573e5-e390-483b-8138-dab9a2e1e192)
 
 
 
