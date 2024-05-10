@@ -15,7 +15,7 @@ This project contains the implementation of the `Schrodinger` class, which serve
 - `tmax`: Maximum time for simulation.
 
 #### Methods:
-- `getPotential(choice)`: Method to define the potential energy based on the chosen potential type.
+- `getPotential(choice)`: Method to define the potential energy based on the chosen potential type ("ISW", "tunneling", "double_part").
 - `infiniteSquareWell()`: Method to define the infinite square well potential.
 - `tunneling(x, x1, width, amp)`: Method to define the tunneling potential.
 - `getAB()`: Method to calculate matrices A and B for Crank-Nicholson.
@@ -52,6 +52,11 @@ Plots the time evolution of the wave function as a color map, showing its magnit
 
 #### `plotSome(schrodinger)`
 
-Plots real and imaginary parts of the wave function at various time steps.
+## Other
+
+Three example scripts are provided to demonstrate the usage of the `Schrodinger` class with different potential types:
+- `ISW_example.py`: Example script for simulating a particle trapped in an Infinite Square Well potential.
+- `tunneling_example.py`: Example script for simulating a particle with tunneling effect.
+- `double_pot_example.py`: Example script for simulating a particle in a double potential well scenario.
 
 
